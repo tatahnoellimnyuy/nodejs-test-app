@@ -6,11 +6,15 @@
 * npm
 * NodeJS
 * Git
-* Contentful CLI (only for write access)
 
-Without any changes, this app is connected to a Contentful space with read-only access. To experience the full end-to-end Contentful experience, you need to connect the app to a Contentful space with read _and_ write access. This enables you to see how content editing in the Contentful web app works and how content changes propagate to this app.
+Follow the steps below to to install the dependencies on ubuntu then run the application.
 
 ## Common setup
+installing  npm  and nodejs
+
+```bash
+apt install nodejs npm
+```
 
 Clone the repo and install the dependencies.
 
