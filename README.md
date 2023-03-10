@@ -35,6 +35,6 @@ To start the express server, run the following
 npm run start:dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) and take a look around.
+Open (http://youripaddress:3000) and take a look around.
 
 
